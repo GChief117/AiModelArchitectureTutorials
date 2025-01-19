@@ -1,3 +1,7 @@
+# Created by Gunnar Beck Nelson
+# 1/10/2024
+#
+
 import torch
 import torch.nn as nn
 
